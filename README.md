@@ -1,1 +1,3 @@
-# DRF_simple_project
+# Простой пример реализации Django Rest Framework
+
+Написан в учебных целях. 
